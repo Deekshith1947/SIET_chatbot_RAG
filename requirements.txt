@@ -1,2 +1,6 @@
 streamlit
+ipdf
+sentence-transformers
+faiss-cpu
 groq
+numpy
